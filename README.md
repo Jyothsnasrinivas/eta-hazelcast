@@ -1,7 +1,7 @@
 
 <h1 align="center">Hazelcast example in Eta</h1>
 
-[Hazelcast](https://hazelcast.org/) is a distributed data system. It supports high scalability and data distribution in a clustered environment.</h2>
+[Hazelcast](https://hazelcast.org/) is a distributed data system that supports high scalability and data distribution in a clustered environment.
 
 In this example we will create a cluster member, distributed Map to share Map data among the cluster nodes and create a client to connect and query data in the cluster.
 
