@@ -54,6 +54,6 @@ $ etlas run hazelcast-client
 2) You can try few more instances to see Hazelcast work.
 
 
-** Credits **
+**Credits**
 
-This example is inspired from Forms chapter in the [Yesod book](https://www.yesodweb.com/book/forms)
+This example is inspired from the [Hazelcast tutorial](https://github.com/eugenp/tutorials/tree/master/hazelcast) by [Eugen](https://github.com/eugenp).
