@@ -1,6 +1,8 @@
 
 <h1 align="center">Hazelcast example in Eta</h1>
 
+**Note that this example is not using the [Direct Java Interop](https://github.com/typelead/eta/issues/647) feature and I've manually written the FFI imports for now. A better example is yet to come ;)**
+
 [Hazelcast](https://hazelcast.org/) is a distributed data system that supports high scalability and data distribution in a clustered environment.
 
 In this example we will create a cluster member, distributed Map to share Map data among the cluster nodes and create a client to connect and query data in the cluster.
